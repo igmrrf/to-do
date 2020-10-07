@@ -1,0 +1,31 @@
+{
+  "id": 1,
+  "title": "categories",
+  "data": [
+    {
+      "id": 1.1,
+      "title": "All Shedule",
+      "tasks": 57
+    },
+    {
+      "id": 1.2,
+      "title": "Personal Errands",
+      "total": 9
+    },
+    {
+      "id": 1.3,
+      "title": "Grocery List",
+      "total": 13
+    },
+    {
+      "id": 1.4,
+      "title": "School List",
+      "total": 20
+    },
+    {
+      "id": 1.5,
+      "title": "Work Projects",
+      "total": 15
+    }
+  ]
+}

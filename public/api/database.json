@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Created Tasks",
+      "total": 57
+    },
+    {
+      "id": 1,
+      "title": "completed Tasks",
+      "total": 57
+    },
+    {
+      "id": 3,
+      "title": "categories",
+      "data": [
+        {
+          "id": 3.1,
+          "title": "All Shedule",
+          "tasks": 57
+        },
+        {
+          "id": 3.2,
+          "title": "Personal Errands",
+          "total": 9
+        },
+        {
+          "id": 3.3,
+          "title": "Grocery List",
+          "total": 13
+        },
+        {
+          "id": 3.4,
+          "title": "School List",
+          "total": 20
+        },
+        {
+          "id": 3.5,
+          "title": "Work Projects",
+          "total": 15
+        }
+      ]
+    }
+  ]
+}
